@@ -12,4 +12,6 @@ wget https://github.com/AnatolyRybchych/LinearAlgebra/blob/main/bin/Debug/net6.0
 ```
 
 ## c# code
+```c#
 using LinearAlgebra;
+```

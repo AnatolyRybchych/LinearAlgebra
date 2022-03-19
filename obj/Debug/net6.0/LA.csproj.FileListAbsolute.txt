@@ -1,0 +1,12 @@
+/home/anatoly/Desktop/LA/bin/Debug/net6.0/LA.deps.json
+/home/anatoly/Desktop/LA/bin/Debug/net6.0/LA.dll
+/home/anatoly/Desktop/LA/bin/Debug/net6.0/LA.pdb
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.csproj.AssemblyReference.cache
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.GeneratedMSBuildEditorConfig.editorconfig
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.AssemblyInfoInputs.cache
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.AssemblyInfo.cs
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.csproj.CoreCompileInputs.cache
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.dll
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/refint/LA.dll
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/LA.pdb
+/home/anatoly/Desktop/LA/obj/Debug/net6.0/ref/LA.dll
